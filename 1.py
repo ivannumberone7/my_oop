@@ -23,3 +23,4 @@ print(a.__dict__)
 
 
 
+print('Хуй соси')
